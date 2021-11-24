@@ -1,0 +1,15 @@
+C:\Users\makki\source\repos\MyHomeWork\MagicDates\bin\Debug\net5.0\MagicDates.exe
+C:\Users\makki\source\repos\MyHomeWork\MagicDates\bin\Debug\net5.0\MagicDates.deps.json
+C:\Users\makki\source\repos\MyHomeWork\MagicDates\bin\Debug\net5.0\MagicDates.runtimeconfig.json
+C:\Users\makki\source\repos\MyHomeWork\MagicDates\bin\Debug\net5.0\MagicDates.runtimeconfig.dev.json
+C:\Users\makki\source\repos\MyHomeWork\MagicDates\bin\Debug\net5.0\MagicDates.dll
+C:\Users\makki\source\repos\MyHomeWork\MagicDates\bin\Debug\net5.0\ref\MagicDates.dll
+C:\Users\makki\source\repos\MyHomeWork\MagicDates\bin\Debug\net5.0\MagicDates.pdb
+C:\Users\makki\source\repos\MyHomeWork\MagicDates\obj\Debug\net5.0\MagicDates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\makki\source\repos\MyHomeWork\MagicDates\obj\Debug\net5.0\MagicDates.AssemblyInfoInputs.cache
+C:\Users\makki\source\repos\MyHomeWork\MagicDates\obj\Debug\net5.0\MagicDates.AssemblyInfo.cs
+C:\Users\makki\source\repos\MyHomeWork\MagicDates\obj\Debug\net5.0\MagicDates.csproj.CoreCompileInputs.cache
+C:\Users\makki\source\repos\MyHomeWork\MagicDates\obj\Debug\net5.0\MagicDates.dll
+C:\Users\makki\source\repos\MyHomeWork\MagicDates\obj\Debug\net5.0\ref\MagicDates.dll
+C:\Users\makki\source\repos\MyHomeWork\MagicDates\obj\Debug\net5.0\MagicDates.pdb
+C:\Users\makki\source\repos\MyHomeWork\MagicDates\obj\Debug\net5.0\MagicDates.genruntimeconfig.cache
