@@ -1,0 +1,16 @@
+C:\Users\makki\source\repos\MyHomeWork\HW3.1\bin\Debug\net5.0\HW3.1.exe
+C:\Users\makki\source\repos\MyHomeWork\HW3.1\bin\Debug\net5.0\HW3.1.deps.json
+C:\Users\makki\source\repos\MyHomeWork\HW3.1\bin\Debug\net5.0\HW3.1.runtimeconfig.json
+C:\Users\makki\source\repos\MyHomeWork\HW3.1\bin\Debug\net5.0\HW3.1.runtimeconfig.dev.json
+C:\Users\makki\source\repos\MyHomeWork\HW3.1\bin\Debug\net5.0\HW3.1.dll
+C:\Users\makki\source\repos\MyHomeWork\HW3.1\bin\Debug\net5.0\ref\HW3.1.dll
+C:\Users\makki\source\repos\MyHomeWork\HW3.1\bin\Debug\net5.0\HW3.1.pdb
+C:\Users\makki\source\repos\MyHomeWork\HW3.1\obj\Debug\net5.0\HW3.1.csproj.AssemblyReference.cache
+C:\Users\makki\source\repos\MyHomeWork\HW3.1\obj\Debug\net5.0\HW3.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\makki\source\repos\MyHomeWork\HW3.1\obj\Debug\net5.0\HW3.1.AssemblyInfoInputs.cache
+C:\Users\makki\source\repos\MyHomeWork\HW3.1\obj\Debug\net5.0\HW3.1.AssemblyInfo.cs
+C:\Users\makki\source\repos\MyHomeWork\HW3.1\obj\Debug\net5.0\HW3.1.csproj.CoreCompileInputs.cache
+C:\Users\makki\source\repos\MyHomeWork\HW3.1\obj\Debug\net5.0\HW3.1.dll
+C:\Users\makki\source\repos\MyHomeWork\HW3.1\obj\Debug\net5.0\ref\HW3.1.dll
+C:\Users\makki\source\repos\MyHomeWork\HW3.1\obj\Debug\net5.0\HW3.1.pdb
+C:\Users\makki\source\repos\MyHomeWork\HW3.1\obj\Debug\net5.0\HW3.1.genruntimeconfig.cache
